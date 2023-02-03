@@ -50,3 +50,6 @@ Laravel Blog - небольшой блог на Laravel
 <a href="https://api.whatsapp.com/send/?phone=79778235546">
 <span><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></span>
 </a>
+<a href="##">
+<span><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"></span>
+</a>
