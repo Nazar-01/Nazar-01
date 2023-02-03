@@ -3,15 +3,16 @@
 <h3 align="center">PHP разработчик, с опытом работы 1.5 года на фрилансе</h3>
 <br>
 <h3>Стек технологий:</h3>
+<span>PHP</span>
 <span>HTML</span>
 <span>CSS</span>
 <span>JavaScript</span>
+<span>jQuery</span>
+<span>Laravel</span>
 <span>Git</span>
 <span>Docker</span>
-<span>jQuery</span>
 <span>MySQL</span>
 <span>phpMyAdmin</span>
-<span>Laravel</span>
 <span>SQL</span>
 <span>Bootstrap</span>
 <span>Woordpress</span>
