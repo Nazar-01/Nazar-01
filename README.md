@@ -3,6 +3,7 @@
 <h3 align="center">PHP разработчик, с опытом работы 1.5 года на фрилансе</h3>
 <br>
 <h3>Стек технологий:</h3>
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 <span>PHP</span>
 <span>HTML</span>
 <span>CSS</span>
