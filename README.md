@@ -50,6 +50,6 @@ Laravel Blog - небольшой блог на Laravel
 <a href="https://api.whatsapp.com/send/?phone=79778235546">
 <span><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></span>
 </a>
-<a href="##">
+<a href="https://vk.com/20nazarik01">
 <span><img width="40px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"></span>
 </a>
