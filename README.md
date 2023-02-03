@@ -44,4 +44,4 @@ Laravel Blog - небольшой блог на Laravel
 </p>
 <br>
 <h3>Контактная информация:</h3>
-<p>...</p>
+<span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"></span>
