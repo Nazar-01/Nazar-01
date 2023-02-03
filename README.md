@@ -3,7 +3,9 @@
 <h3 align="center">PHP разработчик, с опытом работы 1.5 года на фрилансе</h3>
 <br>
 <h3>Стек технологий:</h3>
-<p>...</p>
+<span style="background-color: #0d1117;">HTML</span>
+<span style="background-color: #0d1117;">HTML</span>
+<span style="background-color: #0d1117;">HTML</span>
 <br>
 <h3>Цель:</h3>
 <p>Использовать свой опыт работы фрилансером в качестве PHP разработчика и перейти на постоянную работу в IT-компанию, где я смогу продолжать расти как разработчик и вносить свой вклад в успех компании.</p>
@@ -26,7 +28,7 @@ Aroma - интернет магазин аксессуаров.
 <br><br>
 Laravel Blog - небольшой блог на Laravel
 <br>
-Технологии в проекте: <b>PHP, ООП, MVC, MySQL, jQuery, ajax, composer, twig</b>
+Технологии в проекте: <b>Laravel, PHP, composer</b>
 <br>
 <a href="##">ССылка на проект</a>
 <br>
