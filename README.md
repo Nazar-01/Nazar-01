@@ -45,11 +45,11 @@ Laravel Blog - небольшой блог на Laravel
 <br>
 <h3>Контактная информация:</h3>
 <a href="https://t.me/nazar_sh1">
-  <span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></span>
+  <span><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png"></span>
 </a>
 <a href="https://api.whatsapp.com/send/?phone=79778235546">
-<span><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></span>
+<span><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></span>
 </a>
 <a href="##">
-<span><img width="50px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"></span>
+<span><img width="40px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png"></span>
 </a>
