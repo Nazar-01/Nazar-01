@@ -3,9 +3,20 @@
 <h3 align="center">PHP разработчик, с опытом работы 1.5 года на фрилансе</h3>
 <br>
 <h3>Стек технологий:</h3>
-<span style="background-color: #0d1117;">HTML</span>
-<span style="background-color: #0d1117;">HTML</span>
-<span style="background-color: #0d1117;">HTML</span>
+<span>HTML</span>
+<span>CSS</span>
+<span>JavaScript</span>
+<span>Git</span>
+<span>Docker</span>
+<span>jQuery</span>
+<span>MySQL</span>
+<span>phpMyAdmin</span>
+<span>Laravel</span>
+<span>SQL</span>
+<span>Bootstrap</span>
+<span>Woordpress</span>
+<span>Woocommerce</span>
+<span>OpenCart</span>
 <br>
 <h3>Цель:</h3>
 <p>Использовать свой опыт работы фрилансером в качестве PHP разработчика и перейти на постоянную работу в IT-компанию, где я смогу продолжать расти как разработчик и вносить свой вклад в успех компании.</p>
