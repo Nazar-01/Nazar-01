@@ -33,7 +33,7 @@ Aroma - интернет магазин аксессуаров.
 <br>
 <a href="##">ССылка на проект</a>
 <br>
-<a href="##">ССылка на репозиторий</a>
+<a href="https://github.com/Nazar-01/aroma">ССылка на репозиторий</a>
 <br><br>
 Laravel Blog - небольшой блог на Laravel
 <br>
@@ -41,7 +41,7 @@ Laravel Blog - небольшой блог на Laravel
 <br>
 <a href="##">ССылка на проект</a>
 <br>
-<a href="##">ССылка на репозиторий</a>
+<a href="https://github.com/Nazar-01/laravel_blog">ССылка на репозиторий</a>
 </p>
 <br>
 <h3>Контактная информация:</h3>
