@@ -14,6 +14,7 @@
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></span>
 <br>
 <h3>Цель:</h3>
 <p>Использовать свой опыт работы фрилансером в качестве PHP разработчика и перейти на постоянную работу в IT-компанию, где я смогу продолжать расти как разработчик и вносить свой вклад в успех компании.</p>
