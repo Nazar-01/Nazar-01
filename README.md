@@ -39,7 +39,7 @@ Laravel Blog - небольшой блог на Laravel
 <br>
 Технологии в проекте: <b>Laravel, PHP, composer</b>
 <br>
-<a href="##">ССылка на проект</a>
+<a href="http://laravel.nazar2if.beget.tech/">ССылка на проект</a>
 <br>
 <a href="https://github.com/Nazar-01/laravel_blog">ССылка на репозиторий</a>
 </p>
