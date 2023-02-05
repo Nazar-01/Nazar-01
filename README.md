@@ -31,17 +31,17 @@ Aroma - интернет магазин аксессуаров.
 <br>
 Технологии в проекте: <b>PHP, ООП, MVC, MySQL, jQuery, ajax, composer, twig</b>
 <br>
-<a href="http://aroma.nazar2if.beget.tech/">ССылка на проект</a>
+<a href="http://aroma.nazar2if.beget.tech/">Ссылка на проект</a>
 <br>
-<a href="https://github.com/Nazar-01/aroma">ССылка на репозиторий</a>
+<a href="https://github.com/Nazar-01/aroma">Ссылка на репозиторий</a>
 <br><br>
 Laravel Blog - небольшой блог на Laravel
 <br>
 Технологии в проекте: <b>Laravel, PHP, composer</b>
 <br>
-<a href="http://laravel.nazar2if.beget.tech/">ССылка на проект</a>
+<a href="http://laravel.nazar2if.beget.tech/">Ссылка на проект</a>
 <br>
-<a href="https://github.com/Nazar-01/laravel_blog">ССылка на репозиторий</a>
+<a href="https://github.com/Nazar-01/laravel_blog">Ссылка на репозиторий</a>
 </p>
 <br>
 <h3>Контактная информация:</h3>
