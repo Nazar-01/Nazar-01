@@ -31,7 +31,7 @@ Aroma - интернет магазин аксессуаров.
 <br>
 Технологии в проекте: <b>PHP, ООП, MVC, MySQL, jQuery, ajax, composer, twig</b>
 <br>
-<a href="##">ССылка на проект</a>
+<a href="http://aroma.nazar2if.beget.tech/">ССылка на проект</a>
 <br>
 <a href="https://github.com/Nazar-01/aroma">ССылка на репозиторий</a>
 <br><br>
