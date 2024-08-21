@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет, я <a href="##" target="_blank">Назар</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">PHP разработчик, с опытом работы 1.5 года на фрилансе</h3>
+<h3 align="center">PHP разработчик, с опытом работы более 3 лет</h3>
 <br>
 <h3>Стек технологий:</h3>
 <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></span>
